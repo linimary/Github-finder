@@ -4,10 +4,6 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  purge: [
-    './src/**/*.html',
-    './src/**/*.jsx',
-  ],
   theme: {
     extend: {},
   },
